@@ -1,4 +1,3 @@
-# CIFAR10-Image-Classification
 # CIFAR-10 Image Classifier (CNN)
 
 > **Projet de Computer Vision : Classification multiclasse d'images 32x32 en 10 catégories distinctes.**
