@@ -4,7 +4,7 @@
 
 Ce projet démontre l'utilisation des **Réseaux de Neurones Convolutifs (CNN)** pour identifier des objets et des animaux à partir du dataset de référence CIFAR-10.
 
-#cifar 10 n'est pas fournit,vous pouvez y accéder via un google drive:( https://drive.google.com/file/d/15EnFJA1SGnkI6gzkgWP0PElY-rjQgGL3/view?usp=sharing )
+cifar 10 n'est pas fournit,vous pouvez y accéder via un google drive:( https://drive.google.com/file/d/15EnFJA1SGnkI6gzkgWP0PElY-rjQgGL3/view?usp=sharing )
 ---
 
 ## Objectif du Projet
